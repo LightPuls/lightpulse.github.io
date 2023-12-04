@@ -8,7 +8,7 @@ Hola Nuevamente (or financial accountancy) is the field of accounting concerned 
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-# Objectives
+# SALIDA
 
 Financial accounting and financial reporting are often used as synonyms.
 
